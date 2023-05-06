@@ -102,7 +102,7 @@ main {
   
 
 .hero-image {
-  background:linear-gradient(0deg, rgb(46, 79, 77), rgba(255, 255, 255, 0)), url(home-background.jpg);
+  background:linear-gradient(0deg, rgb(46, 79, 77), rgba(255, 255, 255, 0)), url(header-background.jpg);
 	background-size: cover;
 	background-position: center;
 	position: absolute;

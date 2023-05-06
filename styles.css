@@ -36,10 +36,7 @@ img.rounded-corners {
     min-height: 100px;
 }
 
-.navbar {
-    background-color: #6B4A42;
 
-}
 .nav-item{
     font-weight: bold;
 }
@@ -102,7 +99,7 @@ main {
   
 
 .hero-image {
-  background:linear-gradient(0deg, rgb(46, 79, 77), rgba(255, 255, 255, 0)), url(header.jpg) !important;
+  background:linear-gradient(0deg, rgb(46, 79, 77), rgba(255, 255, 255, 0)), url(eye.gif);
 	background-size: cover;
 	background-position: center;
 	position: absolute;

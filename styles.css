@@ -1,0 +1,163 @@
+
+
+
+
+img.rounded-corners {
+  border-radius: 20px;
+}
+
+.title {
+   color: rgb(255, 255, 255);
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.75);
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.line {
+  border-top: 1px solid #ffffff;
+}
+
+.description {
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
+
+.logo-img{
+
+    max-width: 5%;
+    min-width: 100px;
+    max-height: 5%;
+    min-height: 100px;
+}
+
+.navbar {
+    background-color: #6B4A42;
+
+}
+.nav-item{
+    font-weight: bold;
+}
+.nav-item:hover{
+    background-color: #DAB895;
+    color: black;
+}
+
+.logo-block{
+    background-color: 	#685C48;
+    padding:10px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.btn{
+    background-color: #6B4A42 !important;
+
+}
+.btn:hover{
+    background-color: #DAB895 !important;
+    color: black !important;
+}
+
+
+body {
+	  margin: 0;
+	  padding: 0;
+	  font-family: Arial, sans-serif;
+    background-image: url(home-background.jpg);
+    background-size: cover;
+
+  }
+
+main {
+	background-image: linear-gradient(0deg, rgba(255, 255, 255, 0), rgb(46, 79, 77)) !important;
+	  margin: 0;
+	  padding: 0;
+	  font-family: Arial, sans-serif;
+}
+
+  
+  .bg-au {
+	background: rgb(65, 76, 76);
+	padding: -10;
+  }
+
+  .container-bg {
+	background: rgb(46, 79, 77);
+	padding: -10;
+  }
+  
+  header {
+	  position: relative;
+	  height: 100vh;
+	  overflow: hidden;
+  }
+  
+
+.hero-image {
+  background:linear-gradient(0deg, rgb(46, 79, 77), rgba(255, 255, 255, 0)), url(eye.gif);
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: -1;
+	transition: opacity 1s ease-in-out;
+}
+
+.main-header-hidden .hero-image {
+	opacity: 0;
+}
+
+main {
+	padding: 50px;
+}
+
+p {
+	line-height: 1.5;
+  color: white;
+}
+
+.desc h1 {
+  color: white;
+}
+
+.desc h5 {
+  color: white;
+}
+
+.desc h6 {
+  color: white;
+}
+
+.desc span {
+  color: white;
+}
+
+.card-body h5 {
+  font-weight: bold;
+  color: #6B4A42;
+  font-size: large;
+}
+
+
+
+.icon-me {
+  text-align: center;
+  font-size: 5em;
+  color: rgba(200, 100, 100, 0.7);
+  padding-top: 20px;
+  padding-bottom: 25px;
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.30);
+}
+
+
